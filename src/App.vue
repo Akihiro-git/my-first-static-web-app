@@ -8,7 +8,7 @@ export default {
   data() {
     return {
       value: "Vue", 
-      value2: "World3"
+      value2: "World5"
     };
   }
 };
